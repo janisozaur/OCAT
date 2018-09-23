@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(OCAT)
+file(GLOB_RECURSE SOURCES "*.cpp" "*.c")
+set(CMAKE_CXX_STANDARD 11)
+add_definitions(-DUNICODE=1 -DWINVER=0x0601)
+add_executable(OCAT ${SOURCES})

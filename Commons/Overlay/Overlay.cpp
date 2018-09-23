@@ -36,6 +36,10 @@
 
 #include "VK_Environment.h"
 
+#ifndef ERROR_APPCONTAINER_REQUIRED
+#define ERROR_APPCONTAINER_REQUIRED 4251
+#endif
+
 Overlay::Overlay()
 {
   // Empty
