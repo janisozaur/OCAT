@@ -20,7 +20,7 @@
 // SOFTWARE.
 //
 
-#include <Windows.h>
+#include <windows.h>
 
 #include "Overlay\Hook.h"
 #include "Utility\Constants.h"

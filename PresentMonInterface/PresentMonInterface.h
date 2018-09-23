@@ -27,7 +27,7 @@ SOFTWARE.
 
 #include "..\PresentMon\PresentMon\commandline.hpp"
 
-#include <Windows.h>
+#include <windows.h>
 #include <string>
 
 class PresentMonInterface

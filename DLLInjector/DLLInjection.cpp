@@ -22,7 +22,7 @@
 
 #include "DLLInjection.h"
 
-#include <Windows.h>
+#include <windows.h>
 #include <string>
 #include <TlHelp32.h>
 

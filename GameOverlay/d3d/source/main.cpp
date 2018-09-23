@@ -23,7 +23,7 @@
 // OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
 // OF THE POSSIBILITY OF SUCH DAMAGE.
 
-#include <Windows.h>
+#include <windows.h>
 #include <appmodel.h>
 #include "Config\BlackList.h"
 #include "Recording\Capturing.h"
